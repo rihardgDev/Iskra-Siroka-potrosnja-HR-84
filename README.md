@@ -1,5 +1,6 @@
 # Iskra-Siroka-potrosnja-HR-84
 First of all I would like to say big thanks to Robert Kovač for scanning the manuals (probably one of the very few, or possible the only ones surviving to this day) and providing photos of his HR 84, without his effort this git would only contain magazine articles and adds.  
+I would also like to thank Jože Stepan for providing the scan of the Book ABC racunalnistva_Partner_HR84 which contains programming references.  
   
     
 Iskra's HR-84 home computer from Slovenia (Yugoslavia)  
