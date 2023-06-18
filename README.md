@@ -1,7 +1,7 @@
 # Iskra-Siroka-potrosnja-HR-84
-First of all I would like to say big thanks to Robert Kovač for scanning the manuals (probably one of the very few, or possible the only ones surviving to this day) and providing photos of his HR 84, without his effort this git would only contain magazine articles and adds.  
+First of all I would like to say big thanks to Robert Kovač for scanning the manuals (probably one of the very few, or possible the only ones surviving to this day) and providing photos of his HR 84, without his effort this git would only contain magazine articles and adds.
 I would also like to thank Jože Stepan for providing the scan of the Book ABC racunalnistva_Partner_HR84 which contains programming references.  
-  
+And last but not least thanks to Andrej Gerbec for the help with dumping ROMS.   
     
 Iskra's HR-84 home computer from Slovenia (Yugoslavia)  
 ![HR-84](https://github.com/rihardgDev/Iskra-Siroka-potrosnja-HR-84/blob/main/MMS_84_06_002.jpg)  
@@ -27,9 +27,11 @@ Far left card is a ram card containing 4116 DRAM chips, the middle one must be a
 ![HR-84 serial RAM card](https://github.com/rihardgDev/Iskra-Siroka-potrosnja-HR-84/blob/main/Images/Iskra%20HR%2084%20internals%20cards%20closeups%20RAM%20card.jpg)   
 RAM card containing 8 4116 DRAM chips for a total of 16 KB of RAM  
 
-Second card contains 4 EEPROMs 16KB in total (BASIC and machine monitor), I/O logic for MIC, EAR and keyboard, reset button connection and Motorola 6809 processor
+![HR-84 processor card](https://github.com/rihardgDev/Iskra-Siroka-potrosnja-HR-84/blob/main/HR_84_proc_board.jpg)   
+Second card contains 4 EEPROMs 16KB in total (BASIC and machine monitor), I/O logic for MIC, EAR and keyboard, reset button connection, Motorola 6809 processor and EMZ 6821 Peripheral Interface Adapter
 
-Third card contains a CHAR ROM (?), static RAM for video (?), RF modulator, RGB (composite? ) video output circutry  
+![HR-84 video card](https://github.com/rihardgDev/Iskra-Siroka-potrosnja-HR-84/blob/main/HR_84_video_board.jpg) 
+Third card contains a CHAR ROM, 2114 static RAM for video, RF modulator, RGB (composite? ) video output circutry, 74165 paralell load shift register (for shifting video signal)  
 
 ![HR-84 prompt](https://github.com/rihardgDev/Iskra-Siroka-potrosnja-HR-84/blob/main/HR%2084%20prompt.png)   
 HR-84 prompt of system monitor from a Book ABC racunalnistva_Partner_HR84 (page 57), a seperate command was needed to launch BASIC.
