@@ -24,13 +24,13 @@ The back of the computer contains ON/OFF switch, 220V mains AC input, 0.25A fuse
 Computer has a power supply (+5V, -5V, 12V and -12V? because of the 4116 RAM chips (speculation)), a beeper, a backplane and three distinct cards (backplane can support up to seven slots).
 Far left card is a ram card containing 4116 DRAM chips, the middle one must be a I/O board with ROMs and Motorola 6809 processor and the right one must contain video generating circutry.
 
-![HR-84 serial RAM card](https://github.com/rihardgDev/Iskra-Siroka-potrosnja-HR-84/blob/main/Images/Iskra%20HR%2084%20internals%20cards%20closeups%20RAM%20card.jpg)   
+![HR-84 serial RAM card](https://github.com/rihardgDev/Iskra-Siroka-potrosnja-HR-84/blob/main/HR_84_RAM_board_Hi_Res.jpg)   
 RAM card containing 8 4116 DRAM chips for a total of 16 KB of RAM  
 
-![HR-84 processor card](https://github.com/rihardgDev/Iskra-Siroka-potrosnja-HR-84/blob/main/HR_84_proc_board.jpg)   
+![HR-84 processor card](https://github.com/rihardgDev/Iskra-Siroka-potrosnja-HR-84/blob/main/HR_84_proc_board_Hi_Res.jpg)   
 Second card contains 4 EEPROMs 16KB in total (BASIC and machine monitor), I/O logic for MIC, EAR and keyboard, reset button connection, Motorola 6809 processor and EMZ 6821 Peripheral Interface Adapter
 
-![HR-84 video card](https://github.com/rihardgDev/Iskra-Siroka-potrosnja-HR-84/blob/main/HR_84_video_board.jpg) 
+![HR-84 video card](https://github.com/rihardgDev/Iskra-Siroka-potrosnja-HR-84/blob/main/HR_84_video_board_Hi_Res.jpg) 
 Third card contains a CHAR ROM, 2114 static RAM for video, RF modulator, RGB (composite? ) video output circutry, 74165 paralell load shift register (for shifting video signal)  
 
 ![HR-84 prompt](https://github.com/rihardgDev/Iskra-Siroka-potrosnja-HR-84/blob/main/HR%2084%20prompt.png)   
