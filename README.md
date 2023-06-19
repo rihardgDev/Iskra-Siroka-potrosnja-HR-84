@@ -16,7 +16,7 @@ sound: a beeper
 Computer has also a system monitor, software that enables reading and writing direct memory locations.
 It was planned to build 100 machines in 1984 and that is probably the final number of produced (sometimes 500 is mentioned but this are early records)  
 ![HR-84 serial number 4](https://github.com/rihardgDev/Iskra-Siroka-potrosnja-HR-84/blob/main/Images/Iskra%20HR%2084.jpg)   
-
+This is Roberts machine with serial 50004 (probably machine no 4), with the latest chip datecode I could find was 8424, so this machine was assembled sometime after June 11, 1984
 ![HR-84 back](https://github.com/rihardgDev/Iskra-Siroka-potrosnja-HR-84/blob/main/Images/Iskra%20HR%2084%20back%201.jpg) 
 The back of the computer contains ON/OFF switch, 220V mains AC input, 0.25A fuse, video TTL (apperantly this is RGB output for monitors), RF output for TV, EAR and MIC for cassete reading, keyboard connector and a reset switch.
 
