@@ -6,7 +6,7 @@ And last but not least thanks to Andrej Gerbec for the help with dumping ROMS.
 Iskra's HR-84 home computer from Slovenia (Yugoslavia)  
 ![HR-84](https://github.com/rihardgDev/Iskra-Siroka-potrosnja-HR-84/blob/main/MMS_84_06_002.jpg)  
 
-processor: Motorola 6809 (4Mhz) 
+processor: Motorola 6809 (1Mhz, the oscilator is 4000Khz, but the 6809 has internal divider by 4) 
 RAM: 16-48 KB  
 ROM: 16 kb  (4116 RAM chips)
 resolution: 24 x 40  (char)  
@@ -28,7 +28,7 @@ Far left card is a ram card containing 4116 DRAM chips, the middle one must be a
 RAM card containing 8 4116 DRAM chips for a total of 16 KB of RAM  
 
 ![HR-84 processor card](https://github.com/rihardgDev/Iskra-Siroka-potrosnja-HR-84/blob/main/HR_84_proc_board_Hi_Res.jpg)   
-Second card contains 4 EEPROMs 16KB in total (BASIC and machine monitor), I/O logic for MIC, EAR and keyboard, reset button connection, Motorola 6809 processor and EMZ 6821 Peripheral Interface Adapter
+Second card contains 4 EEPROMs 16KB in total (BASIC and machine monitor), I/O logic for MIC, EAR and keyboard, reset button connection, Motorola 6809 processor and EMZ 6821 Peripheral Interface Adapter for cassette port and keyboard
 
 ![HR-84 video card](https://github.com/rihardgDev/Iskra-Siroka-potrosnja-HR-84/blob/main/HR_84_video_board_Hi_Res.jpg) 
 Third card contains a CHAR ROM, 2114 static RAM for video, RF modulator, RGB (composite? ) video output circutry, 74165 paralell load shift register (for shifting video signal)  
