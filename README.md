@@ -7,10 +7,10 @@ Iskra's HR-84 home computer from Slovenia (Yugoslavia)
 ![HR-84](https://github.com/rihardgDev/Iskra-Siroka-potrosnja-HR-84/blob/main/MMS_84_06_002.jpg)  
 
 processor: Motorola 6809 (1Mhz, the oscilator is 4000Khz, but the 6809 has internal divider by 4)  
-RAM: 16-48 KB  
-ROM: 16 kb  (4116 RAM chips)
+RAM: 16-48 KB  (4116 RAM chips)  
+ROM: 16 kb    
 resolution: 24 x 40  (char)  
-video: 2k of static ram, RF and composit (RGB?) video output
+video: 2k of static ram (2114), RF and composit (RGB?) video output
 colours: 1 (bw only)   
 sound: a beeper
 Computer has also a system monitor, software that enables reading and writing direct memory locations.
