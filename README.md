@@ -6,7 +6,7 @@ And last but not least thanks to Andrej Gerbec for the help with dumping ROMS.
 Iskra's HR-84 home computer from Slovenia (Yugoslavia)  
 ![HR-84](https://github.com/rihardgDev/Iskra-Siroka-potrosnja-HR-84/blob/main/MMS_84_06_002.jpg)  
 
-processor: Motorola 6809  
+processor: Motorola 6809 (4Mhz) 
 RAM: 16-48 KB  
 ROM: 16 kb  (4116 RAM chips)
 resolution: 24 x 40  (char)  
