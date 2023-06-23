@@ -1,6 +1,7 @@
 # Iskra-Siroka-potrosnja-HR-84
 First of all I would like to say big thanks to Robert Kovač for scanning the manuals (probably one of the very few, or possible the only ones surviving to this day) and providing photos of his HR 84, without his effort this git would only contain magazine articles and adds.
 I would also like to thank Jože Stepan for providing the scan of the Book ABC racunalnistva_Partner_HR84 which contains programming references.  
+Miodrag Milanović for working on a MAME emulator  
 And last but not least thanks to Andrej Gerbec for the help with dumping ROMS.   
     
 Iskra's HR-84 home computer from Slovenia (Yugoslavia)  
@@ -33,8 +34,11 @@ Second card contains 4 EEPROMs 16KB in total (BASIC and machine monitor), I/O lo
 ![HR-84 video card](https://github.com/rihardgDev/Iskra-Siroka-potrosnja-HR-84/blob/main/HR_84_video_board_Hi_Res.jpg) 
 Third card contains a CHAR ROM, 2114 static RAM for video, RF modulator, RGB (composite? ) video output circutry, 74165 paralell load shift register (for shifting video signal)  
 
-![HR-84 prompt](https://github.com/rihardgDev/Iskra-Siroka-potrosnja-HR-84/blob/main/HR%2084%20prompt.png)   
-HR-84 prompt of system monitor from a Book ABC racunalnistva_Partner_HR84 (page 57), a seperate command was needed to launch BASIC.
+![HR-84 prompt](https://github.com/rihardgDev/Iskra-Siroka-potrosnja-HR-84/blob/main/HR_84_system_monitor.jpg)   
+HR-84 prompt of system monitor from a emulator, a seperate command was needed to launch BASIC.
+
+![HR-84 prompt](https://github.com/rihardgDev/Iskra-Siroka-potrosnja-HR-84/blob/main/HR_84_basic.jpg)   
+HR-84 BASIC prompt from a emulator  
 
 Iskra's Wide Consumer Division,  developed the HR-84 home computer in the hope of making money from the '2000 computers' project. It was made on the basis of a self-build plan for the Abakus home computer. They used an 8-bit Motorola 6809 microprocessor with a very modest 16-32 KB of RAM and 16 KB of ROM. The entire system was made on three printed circuits, and it also allowed for expansion via an open bus, as well as a pseudo graphic display on a screen or TV (character mode). Usually, one of Iskra's black-and-white televisions was added in addition to the computer and the Yugoslav keyboard. The computer was programmed in the Basic language and apparently had some programs attached on cassettes. There was no money to start the production of computers, but nevertheless, in the light of the big business, they promised 500 computers for schools by the end of the year. In the fall of 1984, as an advertising ploy, Iskra carried out trial production and donated the first 100 computers to schools and a few other institutions, but then the project was soon abandoned.  
 
